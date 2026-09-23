@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5ec03cf8e616770cb622fe2d",
+  "owner": "yfnywxgph",
+  "repo": "page-b73a1d49c2ea808c330c934d",
+  "title": "落英",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b73a1d49c2ea808c330c934d",
+      "a": "落英",
+      "b": "机场官网线路发布页",
+      "entity": "落英",
+      "brand": "落英",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8521a8821f2d1a44af2557cd7673ab59e4fbdb361e713b9853c1a1e6e03ba2f3",
+      "content": {
+        "primary_entity": "落英",
+        "keyword1": "落英",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows、macOS、iOS、Android 与路由器均有适配方案，参考对应文档导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选定套餐后即可按客户端文档配置订阅，开始使用落英加速服务。",
+          "AI_CLOSING_TITLE": "挑选适合你的方案",
+          "AI_DESCRIPTION": "，落英提供基础版、旗舰版与团队版三档套餐，月付价格从 ¥15 到 ¥85，按年付享优惠。基础版适合轻度使用，旗舰版增加流量与 IPLC 专线游戏加速优化，团队版面向多设备高带宽需求，用户可根据设备数量与订阅周期灵活选择。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。可按设备数和流量需求选择。",
+          "AI_FAQ_ANSWER_2": "可以。Windows、macOS、iOS、Android 与路由器均有对应客户端，按文档导入订阅即可，具体兼容情况以客户端文档为准。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。长期使用可选年付节省支出。",
+          "AI_FAQ_ANSWER_4": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟和流媒体有要求的用户；团队版提供 VIP 高带宽节点。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并提供企业定制路由与专属客户经理，适合小型团队或多人共享场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量分别是多少？",
+          "AI_FAQ_QUESTION_2": "落英支持哪些客户端？",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版适合什么场景？",
+          "AI_FAQ_QUESTION_5": "团队版最多支持多少台设备同时使用？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐档位、设备需求和订阅周期三个角度选配。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "按设备数与流量需求在三档套餐间挑选，旗舰版支持 5 台设备，团队版支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "移动端、桌面端与路由器按对应客户端文档配置订阅，先确认设备兼容再使用。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FEATURE_TITLE_1": "档位对比",
+          "AI_FEATURE_TITLE_2": "设备适配",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三个步骤完成服务选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "落英提供多档海外加速套餐，涵盖基础版、旗舰版与团队版，按设备数量和流量需求灵活选择，支持多种客户端导入订阅。",
+          "AI_HERO_SUBTITLE": "灵活套餐，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "多端客户端支持",
+          "AI_HIGHLIGHT_3": "年付更省",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别 ¥150、¥350、¥850，可按设备数量与流量对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量和每月流量需求，对比基础版、旗舰版与团队版选择合适的套餐。",
+          "AI_STEP_TEXT_2": "确认所用设备是否在客户端支持范围内，并核对同时在线设备数量限制。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "落英加速服务"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yunshu521.cn",
+    "host": "yunshu521.cn"
+  },
+  "file_hashes": {
+    "index.html": "afdbfbf630e3a734fc74346b3403b3fd1f66192536710aaf26a910fe7d5ef966",
+    "sitemap.xml": "2e35cbbc7aad295fce560a9b2d307be682422462929c5830341a953ecf8b495f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bee57e821755ded07e51f192e33415b8aa597e02cca42f84fbc07721948ef286",
+    "robots.txt": "42074a344dd03f1c0792c30fe872f7d33ad2a0077808ec85e39001b6dad5b03e",
+    "e7c726882caa31f23a7792321b2c1c3e.txt": "15a0bef12a05eeed6b7812cacf1401968430134d47ec42f9c1cf6c3b7eeb768e"
+  },
+  "revision": "bbfcf80129aa7d71c6eead1f46656ba01f0341d9000827eab8b6709a9bfc4011"
+}
